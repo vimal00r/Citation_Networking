@@ -1,0 +1,303 @@
+Key,Value
+[1.1.1], Sony Infotainment System 1
+[1.1.2],"Introduction Purpose of Document The  purpose  of  this  document  is  to  define  the  software  system  requirements  for  the  Sony 
+Infotainment System designed for vehicles"
+[1.1.3],"It outlines the requirements for a Car Audio-Video 
+Receiver (AV Receiver) fig 1.2, a multimedia device designed to enhance in-car entertainment 
+and connectivity"
+[1.1.4],"The AV Receiver aims to provide users with audio playback, video playback, 
+navigation, smartphone integration, and other features to enhance the driving experience"
+[1.1.5],"The 
+system will be designed for use in a variety of vehicles, including cars, trucks, and SUVs"
+[1.1.6],"It 
+includes the features, functionalities, constraints, and other aspects of the system to guide the 
+development process Table 1."
+Page-1 Table-1,"	0	1	2
+0	Company	Last contact	Lead type
+1	Acme Corp	03-01-2021	Working
+2	Dunder Mifflin	05-01-2021	New
+3	Duff Beer	28-12-2020	Unqualified
+4	Buy n Large	02-01-2021	Nurturing
+5	Pied Piper	26-12-2020	Qualified
+"
+[1.3.1],So when dealing with huge corpus it is very time consuming and computationally   inefficient
+[1.3.2],"
+What  is  the  Transformer?  In  this  work  we  propose  the  Transformer,  a  model  architecture 
+eschewing recurrence and instead relying entirely on an attention mechanism is to draw global 
+dependencies between input and output.', https://towardsdatascience.com/attention-is-all-you-
+need-discovering-the-transformer-paper-73e5ff5e0634"
+Page-2 Image-1,Not a Flowchart. It's an image
+[1.5.1], 2
+[1.5.2],"Functional Objectives Anti-glare Sleek Touchscreen An anti-glare sleek touch screen is a feature in infotainment systems that reduces the reflections 
+of light on the screen, making it easier to see and use in bright conditions"
+[1.5.3],"This is achieved by 
+using a matte finish on the screen, which scatters the light instead of reflecting it"
+[1.5.4],"Display a 
+visually appealing and user-friendly touchscreen interface"
+[1.5.5],"Implement an anti-glare technology 
+to ensure optimal visibility in varying lighting conditions"
+[1.5.6],"Enable touch-based interaction for 
+intuitive user control [Wang et al., 2019]"
+[1.5.7],"Support multi-touch gestures for zooming, scrolling, 
+and control"
+[1.5.8],"Touchscreen interaction is enhanced with the use of the new capacitive screens, as 
+compared to the older and cheaper resistive ones"
+[1.5.9],"Also, brightness and viewing angles, expect 
+capacitive screens to be the mainstay"
+[1.5.10],"You could also see tech like flexible or curved displays 
+making their way into cars in the not-too-distant future [2]."
+Page-2 Image-2,"[('Path:', 'Leave home -> Check time -> Before 7 am? -> Take subway -> Reach school')]"
+[1.7.1]," Apple CarPlay Integrate Apple CarPlay for seamless smartphone integration and safer way to use your iPhone 
+while you drive"
+[1.7.2],"Allow users to access their phone's apps, navigation, music, and messaging 
+services through the infotainment system  [Geva et al., 2021]"
+[1.7.3],"It provides content for all the 
+driver’s screens including the instrument cluster, ensuring a cohesive design experience that is 
+the very best of your car and your iPhone"
+[1.7.4],"It is available on iPhone 5 and later models running 
+iOS 7.1 or later"
+[1.7.5],Enable voice control integration with Siri (Apple) for hands-free operation
+[1.7.6],"
+Ensure  consistent  and  real-time  synchronization  between  the  infotainment  system  and  the 
+connected smartphones"
+[1.7.7],CarPlay isn’t available in all countries or regions
+[1.7.8],"CarPlay is available 
+on select automobiles and on select aftermarket navigation systems [3]."
+[1.8.1], Android Auto Integrate Android Auto for seamless smartphone integration
+[1.8.2],"Make sure you have an Android 
+phone running version 8.0 (Oreo) or later, you just need the Android Auto app to get things 
+started"
+[1.8.3],"If your phone is running Android 10 or later, Android Auto is already built right into 
+your  phone  and  doesn't  need  to  be  downloaded  [Petroni  et  al.,  2019]"
+[1.8.4]," Enable  voice  control 
+integration with Google Assistant (Android) for hands-free operation"
+[1.8.5],"It essentially emulated 
+the original Android Auto app for previous versions and was made as a stop-gap for devices on 
+Android 10 and 11 until Google could launch its Google Assistant Driving Mode integration"
+[1.8.6],"
+It's a more seamless connection now, be it wired or wireless, but with older Android phones 
+running anything before Android 10, you may need to open the Android app on your phone 
+first, then plug in a USB cable to your vehicle's main USB port to start Android Auto on your 
+car's display [1]."
+Page-3 Image-1,"[('Path:', 'Leave home -> Check time -> Before 7 am? -> Take subway -> Reach school')]"
+[1.10.1], LDAC-Compatible Devices Support LDAC (Low Latency Audio Codec) to provide high-quality wireless audio streaming
+[1.10.2],"
+LDAC’s compression technology, which appears to be an intelligent combination of lossless 
+and lossy techniques to maximize sound quality at 990 kbps"
+[1.10.3],"Connect and stream audio from 
+LDAC-compatible devices such as smartphones, tablets, and audio players"
+[1.10.4],"Ensure minimal 
+audio latency and high-resolution audio playback for an immersive listening experience [Saha 
+et  al.,  2023]"
+[1.10.5], LDAC  uses  the  same  sub-band  techniques  at  its  300  and  600  kbps  settings
+[1.10.6],"
+However, Sony is simply able to change the quantization stage to reduce the bit-depth of its 
+different frequency bands further"
+[1.10.7],"The company’s 300 kbps setting will certainly send files at 
+lower than CD quality [5]."
+Page-4 Image-1,Not a Flowchart. It's an image
+[1.12.1], Rear-View Camera Integrate a rear-view camera system for enhanced safety during parking and reversing
+[1.12.2],"Display 
+a live feed from the rear-view camera on the infotainment screen"
+[1.12.3],"Provide visual guidelines 
+and distance markers to assist the driver in gauging distances"
+[1.12.4],"Enable automatic activation of 
+the rear-view camera when the vehicle is in reverse gear"
+[1.12.5],"The Rear Camera View will display 
+when your vehicle is in REVERSE"
+[1.12.6],"On some vehicles, you can also select the camera app on 
+your infotainment display to see the camera view while in a FORWARD gear"
+[1.12.7],"Many of the 
+newer models also optionally offer a 360° bird’s eye panoramic view of the car [Rajpurkar et 
+al.,  2016]"
+[1.12.8]," This  is  achieved  with  four  cameras:  180°  cameras  are  installed  on  the  two  side 
+mirrors, and two other wide view cameras are mounted at the front and rear of the car"
+[1.12.9],"All these 
+cameras and other additional entertainment modules are fed into the multimedia interface and 
+the results are displayed on the infotainment screen [4]."
+[1.13.1], 3
+[1.13.2],"Non-Functional Objectives 3.1 Performance The infotainment system should provide quick response with minimal delay between 
+connection to the infotainment system and the android auto and Apple CarPlay"
+[1.13.3],"
+The system should handle multiple tasks simultaneously (e.g., music playback, navigation, 
+calls) without performance degradation, ensuring a seamless user experience."
+[1.14.1]," 3.2 Scalability The infotainment system must be able to scale to support a variety of vehicle types and 
+configurations"
+[1.14.2],"
+The infotainment system must be able to support a variety of languages."
+[1.15.1]," 3.3 Reliability The system must be able to withstand the rigors of everyday use, such as vibrations, extreme 
+temperatures, and moisture"
+[1.15.2],"
+The infotainment system must be regularly updated with bug fixes and security patches."
+[1.16.1]," 3.4 Speed The infotainment system must be able to provide real-time feedback to the user, such as when 
+playing music or navigating a map"
+[1.16.2],"
+The infotainment system must be fast and responsive to user input"
+[1.16.3],"This means that the 
+system must not take too long to start up, load applications, connect to phone or Bluetooth or 
+change settings"
+[1.16.4],"
+Rear-View Camera to see what is behind the vehicle when reversing."
+[1.17.1], 3.5 Security The infotainment system must be secure from unauthorized access and malicious attacks
+[1.17.2],"
+The infotainment system must be regularly updated with security patches."
+[1.18.1]," 3.6  Interfaces CarPlay to interact with iPhone[Geva et al., 2021] phone features such as Maps, Music, and 
+Messages [3]"
+[1.18.2],"
+Android Auto to interact with android [Petroni et al., 2019] phone features such as Maps, 
+Music, and Messages [1]"
+[1.18.3],"
+LDAC Audio [Saha et al., 2023] Streaming to stream high-definition audio from compatible 
+devices to the infotainment system [5]."
+Page-6 Image-1,"[('Path:', 'Yes -> Payment received within week? -> No')]"
+[1.20.1], 4
+[1.20.2],"System Externals 4.1  User (Driver) Driver is the primary user of the infotainment system who interacts with various features and 
+controls the system while driving."
+[1.21.1]," 4.2  Anti-glare Sleek Touchscreen Anti-glare Sleek Touchscreen in an infotainment system are to significantly reduce glare and 
+reflections  on  the  screen,  thereby  improving  visibility  and  ensuring  that  on-screen  content 
+remains clear and readable, even in bright sunlight or well-lit environments"
+[1.21.2],"They can range in 
+size  from  around  6  to  10  inches  or  more,  with  various  resolutions  and  technologies  like 
+capacitive touch for responsiveness [Wang et al., 2019]"
+[1.21.3],"The touchscreen may have an anti-
+glare coating or technology applied to the display"
+[1.21.4],"This coating helps reduce reflections and 
+minimizes the impact of direct sunlight or bright interior lighting, making it easier to see and 
+interact with the screen [2]."
+[1.22.1]," 4.3 Apple CarPlay Apple  CarPlay  is  a  feature  designed  to  enhance  the  in-car  entertainment  and  information 
+experience by seamlessly integrating your iPhone with the infotainment system of your vehicle"
+[1.22.2],"
+When  connected  to  a  CarPlay-compatible  infotainment  system,  your  iPhone's  interface  is 
+mirrored on the car's touchscreen, allowing you to access and control various apps and features 
+directly from the infotainment system [Geva et al., 2021]"
+[1.22.3],"Navigation apps can provide turn-
+by-turn instructions and detailed maps and show information in the instrument cluster located 
+directly  in  front  of  the  driver"
+[1.22.4],"Apps  in  categories  like  driving  tasks,  EV  charging,  fuelling, 
+parking, and quick food ordering can help people accomplish important tasks in CarPlay [3]."
+[1.23.1]," 4.4  Android Auto Android Auto is  a feature that allows users to  integrate their Android  smartphones with  the 
+infotainment system of their vehicle"
+[1.23.2],"It's designed to provide a safer and more convenient way 
+to use certain smartphone functions while driving, by projecting a simplified version of the 
+smartphone's interface onto the car's touchscreen display [Petroni et al., 2019]"
+[1.23.3],"Android Auto 
+enables users to access key features and applications from their smartphones without having to 
+handle  the  phone  directly,  reducing  distractions  and  promoting  safer  driving  practices"
+[1.23.4]," The 
+latest version of Android Auto is 12.2 [1]."
+[1.24.1]," 4.5  LDAC-Compatible Devices An  LDAC-compatible  device  in  an  infotainment  system  enhances  the  audio  streaming 
+experience  by  delivering  high-quality,  high-resolution  audio  content  over  Bluetooth 
+connections"
+[1.24.2],"LDAC (Low Latency Audio Codec) is a proprietary audio codec developed by 
+Sony that allows for the transmission of audio data at higher bit rates compared to standard 
+Bluetooth audio codecs"
+[1.24.3],"The bitrate of LDAC offers a different bitrate, weighing in at 990, 660, 
+and 330 kbps respectively"
+[1.24.4],"So, depending on the type of connection available or the option you 
+pick, there are varying levels of quality"
+[1.24.5],"It’s clear that the slower bitrates aren’t going to give 
+the  full  24-bit,  96  kHz  quality  that  LDAC  boasts  though,  so  keep  that  in  mind"
+[1.24.6]," LDAC  is 
+designed to provide superior sound quality by minimizing data compression and maintaining a 
+higher level of audio fidelity during wireless transmission [Saha et al., 2023]"
+[1.24.7],"At the most basic 
+level,  LDAC  supports  the  transfer  of  24-bit,  96  kHz  (Hi-Res)  audio  files  over  the  air  via 
+Bluetooth"
+[1.24.8],"The closest competing codec is Qualcomm’s aptX HD, which supports 24-bit, 48 
+kHz audio data [5]."
+[1.25.1]," 4.6  Rear-View Camera A rear-view camera integrated into an infotainment system serves as a safety and convenience 
+feature in vehicles"
+[1.25.2],"Its primary purpose is to provide the driver with a clear and real-time view 
+of the area behind the vehicle while reversing or parking"
+[1.25.3],"This helps the driver avoid obstacles, 
+pedestrians, and other vehicles that might be in the blind spots or out of the driver's direct line 
+of sight [Rajpurkar et al., 2016]"
+[1.25.4],"The camera in the vehicle’s rear becomes automatically active 
+as soon as the reverse gear is engaged"
+[1.25.5],"The camera image displays the area behind the vehicle 
+and allows the driver to determine in real time whether the path is clear"
+[1.25.6],"HDMI™ version 1.4 
+and 2.0 (6G), resolution up to 4k (4096 × 2160 pixel), 8 × audio (PCM up to 48 kHz) [4]."
+[1.26.1]," Conclusion The Sony Infotainment System, incorporating features such as Anti-glare Sleek Touchscreen 
+[Wang et al., 2019], Apple CarPlay [Geva et al., 2021], Android Auto [Petroni et al., 2019], 
+LDAC-Compatible  Devices  [Saha  et  al.,  2023],  and  Rear-View  Camera  [Rajpurkar  et  al., 
+2016],  is  designed  to  deliver  a  holistic  and  enjoyable  in-car  experience"
+[1.26.2]," It  combines 
+entertainment, connectivity, and safety features while adhering to high standards of usability, 
+reliability, performance, and security"
+[1.26.3],"This document serves as a comprehensive guide to the 
+requirements of the system, ensuring successful development and implementation ."
+Page-8 Image-1,"[('Path:', '')]"
+[1.28.1]," Additional Information Bluetooth: Bluetooth is a wireless technology that allows devices to communicate with each other over 
+short  distances"
+[1.28.2]," It's  commonly  used  for  connecting  devices  like  smartphones,  headphones, 
+speakers, and car infotainment systems"
+[1.28.3],"Bluetooth is used to connect your smartphone to the 
+car's system wirelessly"
+[1.28.4],"This enables hands-free calling, audio streaming, and sometimes even 
+wireless data transfer between the two devices."
+[1.29.1]," Smartphone (iPhone and Android): A smartphone is a mobile device that combines the functions of a cell phone with those of a 
+computer"
+[1.29.2],"iPhones [3] [Geva et al., 2021] and Android devices [Petroni et al., 2019] [1] are two 
+major categories of smartphones"
+[1.29.3],Smartphones play a crucial role in the infotainment system
+[1.29.4],"
+They can be connected to the system to enable features like Apple CarPlay (for iPhones) and 
+Android Auto (for Android devices)"
+[1.29.5],"These features allow you to project your phone's interface 
+onto the car's touchscreen, providing access to navigation, music, calls, and more [1] [3]."
+[1.30.1], Siri (Apple's Virtual Assistant): Siri is a virtual assistant developed by Apple
+[1.30.2],"It uses voice recognition and natural language 
+processing to perform tasks and answer questions [Geva et al., 2021]"
+[1.30.3],"With Apple CarPlay, Siri 
+is  integrated  into  the  car's  infotainment  system"
+[1.30.4],"This  allows  you  to  use voice  commands  to 
+make calls, send messages, play music, and get navigation directions without taking your hands 
+off the steering wheel [3]."
+[1.31.1]," Android Auto (Google's Platform for Cars): Android  Auto  is  a  platform  developed  by  Google  that's  designed  to  bring  the  Android 
+experience to your car's infotainment system [Petroni et al., 2019]"
+[1.31.2],"Android Auto allows you 
+to connect your Android smartphone to the car's system, enabling you to use apps like Google 
+Maps  for  navigation,  control  music  playback,  send  messages  using  voice  commands,  and 
+access other compatible apps while driving safely [1]."
+Page-9 Table-1,"	0	1	2	3	4
+0	Name	Reference\nNumber	Customer\nSince	Number of\nActive Portfolio	Portfolio\nValue ($)
+1	Brandon\nStanley	xxxx00900	04-09-1997	20	20,00,000
+2	Victoria Porter	XXXX00901	17-10-1964	40	39,09,000
+3	Roy Porter	xxxx00902	27-11-2002	24	24,00,000
+4	Fionna Carrol	xxxx00903	05-07-2000	33	33,00,000
+5	Natasha Clark	xxxx00904	08-05-1961	11	11,00,000
+"
+[1.33.1], Anti-glare Sleek Touchscreen: A  touchscreen  is  a  display  that  can  detect  and  respond  to  touch  inputs
+[1.33.2]," An  anti-glare 
+touchscreen  is  designed  to  minimize  reflections  and  improve  visibility,  especially  in  bright 
+sunlight"
+[1.33.3],"The anti-glare sleek touchscreen is the interface through which you interact with the 
+infotainment system [Wang et al., 2019]"
+[1.33.4],"Its anti-glare properties ensure that you can easily see 
+and interact with the screen even in various lighting conditions [2]."
+[1.34.1], LDAC (Low Latency Audio Codec): LDAC is a wireless audio codec developed by Sony
+[1.34.2],"It's designed to transmit high-quality audio 
+wirelessly with minimal latency [Saha et al., 2023]"
+[1.34.3],"LDAC compatibility ensures that you can 
+connect  compatible devices like smartphones and audio  players to  infotainment  system  and 
+stream high-quality audio without experiencing significant delays or loss in audio quality [5]."
+[1.35.1]," Rear-View Camera: A rear-view camera is a camera mounted on the back of a vehicle that provides a live video 
+feed of the area behind the vehicle [Rajpurkar et al., 2016]"
+[1.35.2],"The rear-view camera is a safety 
+feature that helps you when parking or reversing your car"
+[1.35.3],"The live feed from the camera is 
+displayed  on  the  infotainment  screen,  giving  you  a  clear  view  of  what's  behind  you  and 
+assisting in avoiding obstacles [4]."
+[1.36.1],"A Rigorous Mathematical Examination of the Retentive Network (RETNET)The landscape of 
+deep learning is punctuated by the emergence of novel architectures, each aiming to address 
+the  multifaceted  challenges…10  min  read"
+[1.36.2],"   Sep  24--1Assaad  MOAWA  Din    Data  Things 
+Masked multi-head attention explained in a simple way"
+[1.36.3],"How does chat GPT actually work?', 
+'What is the attention mechanism behind it?·12 min read"
+[1.36.4],"Aug 29--See more recommendations 
+Help  Status  About  Careers  Blog  Privacy  Terms  Text 
+to  speech  hello  Teams 
+https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-
+73e5ff5e0634"
